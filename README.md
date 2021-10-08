@@ -3,7 +3,7 @@
 <br>
 <br>
 <a href="https://mrdybalex.github.io/" target="_BLANK">
-<i>Click on my head to be redirected directly to the site. </i>
+<i>Click para entrar a mi Web de Pruebas. </i>
 <img src="https://minotar.net/helm/Sky/16.png"></img>
 </a>
 <br>
